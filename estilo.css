@@ -1,0 +1,23 @@
+.contenedor {
+	max-width: 80%;
+	margin: 0 auto;
+	background-color: #FFF1DC;
+}
+.borde {
+	border-bottom: solid 3px;
+	color: blue;
+}
+img {
+	border-radius: 50%;
+	width: 100%;
+}
+body {
+	background-color: #EEEEEE;
+}
+.datos-personales{
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+}
+.columna {
+	margin-right: 0px;
+}
